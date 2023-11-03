@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Natalye Cavalieri 👋
 
-<!--
-**NatalyeCavalieri/NatalyeCavalieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current Stack
+- :zap: Main Language: `Javascript`
+- 📡 Backend: `Node.js`
+- :tada: Fontend: `React.js`, `CSS3`, `HTML5`, `Javascript`
+- :art: Layout Design: `Figma`
+- :package: Version Code Control: `Git` & `Github`
+- :wrench: Tools: `VScode`, `MarkDown`
+  
+#### Contact
+- ✉ Email: cavalieridev@gmail.com
+- ➡️ Linkedin: www.linkedin.com/in/natalyecavalieri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
