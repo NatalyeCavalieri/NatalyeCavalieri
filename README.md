@@ -30,8 +30,8 @@ I'm Web Developer Full-Stack. And, I'm studying web development at [Rocketseat](
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyeCavalieri&layout=compact&theme=radical" />
   
 #### Contact
-<a href=" cavalieridev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
-<a href="www.linkedin.com/in/natalyecavalieri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+<a href=" mailto:cavalieridev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
+<a href="https://www.linkedin.com/in/natalyecavalieri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
  
 
 
