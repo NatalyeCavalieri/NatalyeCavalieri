@@ -4,10 +4,10 @@
 I'm Web Developer Full-Stack. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)🚀.
 
 #### Current Stack
-- :zap: Main Language: `Javascript` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+- :zap: Main Language: `Javascript & Typescript` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+- :tada: Fontend: `React.js` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> `TAILWINDCSS` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> 
 - 📡 Backend: `Node.js` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 - 🏦 Database: `Sqlite` <img align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-- :tada: Fontend: `React.js` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> `CSS3` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    `HTML5` <img align="center" height="30px" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 - :art: Layout Design: `Figma` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 - :package: Version Code Control: `Git` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> `Github` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
 - :wrench: Tools: `VScode`<img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
