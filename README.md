@@ -5,7 +5,7 @@ I'm Web Developer Full-Stack. And, I'm studying web development at [Rocketseat](
 
 #### Current Stack
 - :zap: Main Language: `Javascript & Typescript` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-- :tada: Fontend: `React.js` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> `TAILWINDCSS` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> 
+- :tada: Fontend: `React.js` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> `TAILWINDCSS` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>   `STYLED-COMPONENTS`💅 
 - 📡 Backend: `Node.js` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 - 🏦 Database: `Sqlite` <img align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 - :art: Layout Design: `Figma` <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
